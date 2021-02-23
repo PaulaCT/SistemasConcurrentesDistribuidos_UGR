@@ -1,0 +1,6 @@
+ejecutivo1 -> ejecutivo normal
+ejecutivo1-cmpr -> ejecutivo1, da error si se excede 
+		   el tiempo
+ejecutivo2 -> otra versión de ejecutivo (respuestas en
+	      READ_ME.txt)
+relojes, tiempos -> archivos fuente de la práctica

@@ -1,0 +1,6 @@
+prodcons_lifo - normal LIFO
+prodcons_fifo - normal FIFO
+prodcons_2p_1c - dos productores para un consumidor, LIFO
+prodcons_1p_2c - un productor, dos consumidores sin lucha 
+		 por elementos, LIFO
+

@@ -1,0 +1,6 @@
+prodcons_lifo - normal LIFO
+prodcons_fifo - normal FIFO (no funciona)
+prodcons_2p_1c - dos productores para un consumidor, LIFO
+		 no se alternan del todo, revisar mutex
+
+

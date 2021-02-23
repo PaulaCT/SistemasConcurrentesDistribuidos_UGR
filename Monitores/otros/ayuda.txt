@@ -1,0 +1,3 @@
+ejercicio2 -> 	10 coches pasan por 2 cabinas para pagar 
+		peaje (2 colas)
+bebedores ->	camareros preparan cocktails para 4 clientes

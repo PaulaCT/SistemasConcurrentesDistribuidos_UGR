@@ -1,0 +1,11 @@
+fumadores - normal
+fuma_ex - 4 fumadores, se repite un elemento
+	  en primera iteración se echa a suerte
+	  a partir de la segunda se van turnando
+fumadores_2e - 2 estanqueros, se turnan para atender
+fumadores_10c - cada fumador solo puede fumarse 10 
+		cigarros (no funciona)
+fumadores_almacen - un proveedor va llenando el almacén
+fumadores_activista - activista habla de vez en cuando y cada 
+		      8 iteraciones tira un ingrediente
+

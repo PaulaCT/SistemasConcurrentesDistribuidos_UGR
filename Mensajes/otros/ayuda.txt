@@ -1,0 +1,4 @@
+ej2svM -> supermercado, 10 clientes pagan en 3 cajas, no vistas 
+	  como procesos (hecho por el profesor)
+examenp3 -> hacienda, 10 clientes pagan en 4 mostradores vistos
+	    como proceso (no funciona, segmentation fault)

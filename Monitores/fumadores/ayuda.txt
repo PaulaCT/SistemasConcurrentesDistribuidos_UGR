@@ -1,0 +1,9 @@
+fumadores - normal
+fumadores_2e_r - dos estanqueros se alternan el mostrador,
+		 si uno de ellos produce el mismo ingrediente 
+		 se notifica, revisar mutex
+fumadores_prod - un productor genera un ingrediente, el estanquero
+		 lo pone en el mostrador
+fumadores_proveedor - un proveedor va llenando el almacén
+
+

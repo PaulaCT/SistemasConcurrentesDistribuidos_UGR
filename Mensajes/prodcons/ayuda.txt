@@ -1,0 +1,4 @@
+prodcons -> buffer recibe peticiones del productor 
+	    y del consumidor en orden
+prodcons2 -> buffer recibe peticiones arbitrariamente
+prodcons2-mu -> múltiples productores y consumidores 
