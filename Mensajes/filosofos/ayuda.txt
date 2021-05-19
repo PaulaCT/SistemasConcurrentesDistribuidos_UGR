@@ -4,8 +4,6 @@ filosofos -> normal
 filosofos-cam -> filosofos con camarero
 filo_ex1 -> filosofos con camarero y el filosofo
 	   6 ocupa 2 sillas
-ej1svM -> igual que filo_ex1 pero hecho por el 
-	  profesor
 filo_ex -> filosofos pero el filósofo 6 es un antipático
 	   y nadie quiere comer con él a menos que estén
 	   hambrientos (no funciona, mal)
